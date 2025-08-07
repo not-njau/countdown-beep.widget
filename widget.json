@@ -1,0 +1,13 @@
+{
+  "name": "Countdown Beep",
+  "author": "not-njau",
+  "email": "williamnjau@outlook.com",
+  "description": "A simple countdown timer that beeps when it reaches zero.",
+  "repo": "https://github.com/not-njau/countdown-beep.widget",
+  "version": "1.0.0",
+  "previewImg": "preview.png",
+  "compatibility": ">= 1.0",
+  "tags": ["timer", "countdown", "utility"]
+}
+
+
